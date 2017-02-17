@@ -534,6 +534,8 @@ Starting with Beta 26 and Stable 1.13.0, you can select which daemon (Linux or W
 CLI talks to. Select **Switch to Windows containers** to toggle to Windows
 containers. Select **Switch to Linux containers**.
 
+![Switch to Windows](/docker-for-windows/images/SwitchToWindows_small.png)
+
 Microsoft Developer Network has preliminary/draft information on Windows
 containers
 [here](https://msdn.microsoft.com/en-us/virtualization/windowscontainers/about/about_overview).
